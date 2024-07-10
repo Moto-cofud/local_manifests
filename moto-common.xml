@@ -44,7 +44,7 @@
 
     <!-- Mtk-->
     <project path="device/mediatek/common" name="android_device_mediatek_common"
-        remote="moto-cofud" revision="master" />
+        remote="moto-common" revision="master" />
     <project path="vendor/mediatek/common" name="android_vendor_mediatek_common"
         remote="moto-cofud" revision="master" />
     <project path="hardware/mediatek" name="platform_hardware_mediatek"
